@@ -1,4 +1,4 @@
-###Bellabeat Case Study Analysis
+### Bellabeat Case Study Analysis
 This repository contains an analysis for the Bellabeat Case Study, focusing on user activity data to generate insights for enhancing product engagement and personal wellness. The notebook provides detailed steps for data cleaning, feature engineering, and initial data analysis.
 
 Table of Contents
